@@ -1,20 +1,9 @@
-# data-science
+# Police Shootings
 
-Linear Optimization:
+In this project, I have done data visulizations and found pretty interesting insights.
 
-It contains the project Interior Points: An efficient methods to solve the linear optimization problems.
+From the data,It seems like that White american were shot by the police most often during police engagement.
 
-R for Data Science:
+Among unarmed people white people were killed the most followed by the black people
 
-It contains all the code on the data visualization,cleaning using R programming lanuguage.
-
-Python for DataScience
-
-It contains below projects which are done using python programming language in jupyter notebook. TV_halftime_shows_and_the_Big_Game 
-
-        Load, Clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime show using Python.
-        
-The Android App Market on Google Play Store
-
-        Load, Clean, and visualize scraped Google play store data to understand the Android App market using python.
-  
+most of the people who were shot were between late twenties and early thirties
